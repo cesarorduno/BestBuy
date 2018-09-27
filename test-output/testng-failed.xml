@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [BEST BUY Application Test Automation]">
+  <listeners>
+    <listener class-name="com.bb.qa.ExtentReportListener.ExtentReportListener"/>
+  </listeners>
+  <test name="BEST BUY Test Cases(failed)">
+    <classes>
+      <class name="com.bb.qa.testcases.SearchTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="selectItemTest"/>
+        </methods>
+      </class> <!-- com.bb.qa.testcases.SearchTest -->
+      <class name="com.bb.qa.testcases.HomeTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="searchItemTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.bb.qa.testcases.HomeTest -->
+    </classes>
+  </test> <!-- BEST BUY Test Cases(failed) -->
+</suite> <!-- Failed suite [BEST BUY Application Test Automation] -->

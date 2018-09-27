@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="1" failed="1" ignored="0" total="16" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="BEST BUY Application Test Automation" duration-ms="675469" started-at="2018-09-26T23:39:40Z" finished-at="2018-09-26T23:50:55Z">
+    <groups>
+    </groups>
+    <test name="BEST BUY Test Cases" duration-ms="675469" started-at="2018-09-26T23:39:40Z" finished-at="2018-09-26T23:50:55Z">
+      <class name="com.bb.qa.testcases.CreateAccountTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bb.qa.testcases.CreateAccountTest@31a5c39e]" name="setUp" is-config="true" duration-ms="28642" started-at="2018-09-26T18:40:31Z" finished-at="2018-09-26T18:41:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyCreateAccountPageDisplayed()[pri:1, instance:com.bb.qa.testcases.CreateAccountTest@31a5c39e]" name="verifyCreateAccountPageDisplayed" duration-ms="158" started-at="2018-09-26T18:41:00Z" finished-at="2018-09-26T18:41:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreateAccountPageDisplayed -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bb.qa.testcases.CreateAccountTest@31a5c39e]" name="tearDown" is-config="true" duration-ms="1002" started-at="2018-09-26T18:41:00Z" finished-at="2018-09-26T18:41:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bb.qa.testcases.CreateAccountTest@31a5c39e]" name="setUp" is-config="true" duration-ms="32739" started-at="2018-09-26T18:47:16Z" finished-at="2018-09-26T18:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyErrorMsg()[pri:2, instance:com.bb.qa.testcases.CreateAccountTest@31a5c39e]" name="verifyErrorMsg" duration-ms="2148" started-at="2018-09-26T18:47:49Z" finished-at="2018-09-26T18:47:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyErrorMsg -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bb.qa.testcases.CreateAccountTest@31a5c39e]" name="tearDown" is-config="true" duration-ms="1107" started-at="2018-09-26T18:47:51Z" finished-at="2018-09-26T18:47:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bb.qa.testcases.CreateAccountTest@31a5c39e]" name="setUp" is-config="true" duration-ms="33143" started-at="2018-09-26T18:48:27Z" finished-at="2018-09-26T18:49:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPassMatchMsg()[pri:3, instance:com.bb.qa.testcases.CreateAccountTest@31a5c39e]" name="verifyPassMatchMsg" duration-ms="1605" started-at="2018-09-26T18:49:00Z" finished-at="2018-09-26T18:49:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPassMatchMsg -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bb.qa.testcases.CreateAccountTest@31a5c39e]" name="tearDown" is-config="true" duration-ms="1316" started-at="2018-09-26T18:49:02Z" finished-at="2018-09-26T18:49:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bb.qa.testcases.CreateAccountTest@31a5c39e]" name="setUp" is-config="true" duration-ms="28324" started-at="2018-09-26T18:49:03Z" finished-at="2018-09-26T18:49:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyNotPassMatchMsg()[pri:4, instance:com.bb.qa.testcases.CreateAccountTest@31a5c39e]" name="verifyNotPassMatchMsg" duration-ms="2452" started-at="2018-09-26T18:49:31Z" finished-at="2018-09-26T18:49:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNotPassMatchMsg -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bb.qa.testcases.CreateAccountTest@31a5c39e]" name="tearDown" is-config="true" duration-ms="1134" started-at="2018-09-26T18:49:34Z" finished-at="2018-09-26T18:49:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bb.qa.testcases.CreateAccountTest@31a5c39e]" name="setUp" is-config="true" duration-ms="30340" started-at="2018-09-26T18:49:35Z" finished-at="2018-09-26T18:50:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyExistAccountMsgError()[pri:5, instance:com.bb.qa.testcases.CreateAccountTest@31a5c39e]" name="verifyExistAccountMsgError" duration-ms="9355" started-at="2018-09-26T18:50:05Z" finished-at="2018-09-26T18:50:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyExistAccountMsgError -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bb.qa.testcases.CreateAccountTest@31a5c39e]" name="tearDown" is-config="true" duration-ms="1187" started-at="2018-09-26T18:50:15Z" finished-at="2018-09-26T18:50:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bb.qa.testcases.CreateAccountTest@31a5c39e]" name="setUp" is-config="true" duration-ms="32702" started-at="2018-09-26T18:50:16Z" finished-at="2018-09-26T18:50:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createAccount()[pri:6, instance:com.bb.qa.testcases.CreateAccountTest@31a5c39e]" name="createAccount" duration-ms="5330" started-at="2018-09-26T18:50:48Z" finished-at="2018-09-26T18:50:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bb.qa.testcases.CreateAccountTest@31a5c39e]" name="tearDown" is-config="true" duration-ms="1531" started-at="2018-09-26T18:50:54Z" finished-at="2018-09-26T18:50:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bb.qa.testcases.CreateAccountTest -->
+      <class name="com.bb.qa.testcases.HomeTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bb.qa.testcases.HomeTest@3f49dace]" name="setUp" is-config="true" duration-ms="32041" started-at="2018-09-26T18:41:03Z" finished-at="2018-09-26T18:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="searchItemTest(java.lang.String)[pri:1, instance:com.bb.qa.testcases.HomeTest@3f49dace]" name="searchItemTest" duration-ms="10869" started-at="2018-09-26T18:41:35Z" data-provider="getNameItemsData" finished-at="2018-09-26T18:41:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[macbook pro]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='gh-search-input']"}
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DIANA', ip: '192.168.1.68', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:55303}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=WIN8_1, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\Diana's\AppData\Local\Temp\scoped_dir14392_5005}, takesHeapSnapshot=true, unhandledPromptBehavior=, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=69.0.3497.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b448679c28e1314ee97af71ffe1447d8
+*** Element info: {Using=xpath, value=//input[@id='gh-search-input']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='gh-search-input']"}
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DIANA', ip: '192.168.1.68', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:55303}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=WIN8_1, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\Diana's\AppData\Local\Temp\scoped_dir14392_5005}, takesHeapSnapshot=true, unhandledPromptBehavior=, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=69.0.3497.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b448679c28e1314ee97af71ffe1447d8
+*** Element info: {Using=xpath, value=//input[@id='gh-search-input']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:215)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:167)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:82)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:45)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:646)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:416)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:518)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:408)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy8.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:189)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy12.sendKeys(Unknown Source)
+	at com.bb.qa.pages.HomePage.searchItem(HomePage.java:49)
+	at com.bb.qa.testcases.HomeTest.searchItemTest(HomeTest.java:58)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchItemTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bb.qa.testcases.HomeTest@3f49dace]" name="tearDown" is-config="true" duration-ms="1390" started-at="2018-09-26T18:41:46Z" finished-at="2018-09-26T18:41:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bb.qa.testcases.HomeTest@3f49dace]" name="setUp" is-config="true" duration-ms="31120" started-at="2018-09-26T18:41:48Z" finished-at="2018-09-26T18:42:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchItemTest(java.lang.String)[pri:1, instance:com.bb.qa.testcases.HomeTest@3f49dace]" name="searchItemTest" duration-ms="32436" started-at="2018-09-26T18:42:19Z" data-provider="getNameItemsData" finished-at="2018-09-26T18:42:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mcqueen car]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchItemTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bb.qa.testcases.HomeTest@3f49dace]" name="tearDown" is-config="true" duration-ms="1309" started-at="2018-09-26T18:42:51Z" finished-at="2018-09-26T18:42:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bb.qa.testcases.HomeTest -->
+      <class name="com.bb.qa.testcases.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bb.qa.testcases.LoginTest@5f2108b5]" name="setUp" is-config="true" duration-ms="28840" started-at="2018-09-26T18:40:01Z" finished-at="2018-09-26T18:40:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginPageTitle()[pri:1, instance:com.bb.qa.testcases.LoginTest@5f2108b5]" name="verifyLoginPageTitle" duration-ms="45" started-at="2018-09-26T18:40:30Z" finished-at="2018-09-26T18:40:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bb.qa.testcases.LoginTest@5f2108b5]" name="tearDown" is-config="true" duration-ms="1251" started-at="2018-09-26T18:40:30Z" finished-at="2018-09-26T18:40:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bb.qa.testcases.LoginTest@5f2108b5]" name="setUp" is-config="true" duration-ms="33437" started-at="2018-09-26T18:46:39Z" finished-at="2018-09-26T18:47:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginHomePage()[pri:2, instance:com.bb.qa.testcases.LoginTest@5f2108b5]" name="loginHomePage" duration-ms="2397" started-at="2018-09-26T18:47:12Z" finished-at="2018-09-26T18:47:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginHomePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bb.qa.testcases.LoginTest@5f2108b5]" name="tearDown" is-config="true" duration-ms="1214" started-at="2018-09-26T18:47:15Z" finished-at="2018-09-26T18:47:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bb.qa.testcases.LoginTest -->
+      <class name="com.bb.qa.testcases.SearchTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bb.qa.testcases.SearchTest@1e397ed7]" name="setUp" is-config="true" duration-ms="65665" started-at="2018-09-26T18:42:53Z" finished-at="2018-09-26T18:43:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="categoryTest()[pri:1, instance:com.bb.qa.testcases.SearchTest@1e397ed7]" name="categoryTest" duration-ms="301" started-at="2018-09-26T18:43:58Z" finished-at="2018-09-26T18:43:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- categoryTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bb.qa.testcases.SearchTest@1e397ed7]" name="tearDown" is-config="true" duration-ms="1068" started-at="2018-09-26T18:43:59Z" finished-at="2018-09-26T18:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bb.qa.testcases.SearchTest@1e397ed7]" name="setUp" is-config="true" duration-ms="64298" started-at="2018-09-26T18:44:30Z" finished-at="2018-09-26T18:45:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="selectItemTest(java.lang.String)[pri:2, instance:com.bb.qa.testcases.SearchTest@1e397ed7]" name="selectItemTest" duration-ms="12990" started-at="2018-09-26T18:45:34Z" data-provider="getNameItemsDescription" finished-at="2018-09-26T18:45:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mattel - Disney-Pixar Cars 3: Tech Touch Lightning McQueen Vehicle - Red]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectItemTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bb.qa.testcases.SearchTest@1e397ed7]" name="tearDown" is-config="true" duration-ms="1351" started-at="2018-09-26T18:45:47Z" finished-at="2018-09-26T18:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="FAIL" signature="setUp()[pri:0, instance:com.bb.qa.testcases.SearchTest@1e397ed7]" name="setUp" is-config="true" duration-ms="50054" started-at="2018-09-26T18:45:49Z" finished-at="2018-09-26T18:46:39Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='gh-search-input']"}
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DIANA', ip: '192.168.1.68', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:55917}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=WIN8_1, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\Diana's\AppData\Local\Temp\scoped_dir15568_11586}, takesHeapSnapshot=true, unhandledPromptBehavior=, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=69.0.3497.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 05206bf2d24214853840c80fe8209866
+*** Element info: {Using=xpath, value=//input[@id='gh-search-input']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='gh-search-input']"}
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DIANA', ip: '192.168.1.68', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:55917}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=WIN8_1, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\Diana's\AppData\Local\Temp\scoped_dir15568_11586}, takesHeapSnapshot=true, unhandledPromptBehavior=, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=69.0.3497.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 05206bf2d24214853840c80fe8209866
+*** Element info: {Using=xpath, value=//input[@id='gh-search-input']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:215)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:167)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:82)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:45)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:646)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:416)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:518)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:408)
+	at sun.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy8.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:189)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy12.sendKeys(Unknown Source)
+	at com.bb.qa.pages.HomePage.searchItem(HomePage.java:49)
+	at com.bb.qa.testcases.SearchTest.setUp(SearchTest.java:39)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:523)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:224)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:599)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="selectItemTest(java.lang.String)[pri:2, instance:com.bb.qa.testcases.SearchTest@1e397ed7]" name="selectItemTest" duration-ms="0" started-at="2018-09-26T18:46:39Z" data-provider="getNameItemsDescription" finished-at="2018-09-26T18:46:39Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='gh-search-input']"}
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DIANA', ip: '192.168.1.68', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:55917}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=WIN8_1, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\Diana's\AppData\Local\Temp\scoped_dir15568_11586}, takesHeapSnapshot=true, unhandledPromptBehavior=, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=69.0.3497.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 05206bf2d24214853840c80fe8209866
+*** Element info: {Using=xpath, value=//input[@id='gh-search-input']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='gh-search-input']"}
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DIANA', ip: '192.168.1.68', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:55917}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=WIN8_1, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\Diana's\AppData\Local\Temp\scoped_dir15568_11586}, takesHeapSnapshot=true, unhandledPromptBehavior=, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=69.0.3497.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 05206bf2d24214853840c80fe8209866
+*** Element info: {Using=xpath, value=//input[@id='gh-search-input']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:215)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:167)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:82)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:45)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:646)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:416)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:518)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:408)
+	at sun.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy8.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:189)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy12.sendKeys(Unknown Source)
+	at com.bb.qa.pages.HomePage.searchItem(HomePage.java:49)
+	at com.bb.qa.testcases.SearchTest.setUp(SearchTest.java:39)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:523)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:224)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:599)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectItemTest -->
+      </class> <!-- com.bb.qa.testcases.SearchTest -->
+      <class name="com.bb.qa.testcases.MainTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bb.qa.testcases.MainTest@e45f292]" name="setUp" is-config="true" duration-ms="19904" started-at="2018-09-26T18:39:40Z" finished-at="2018-09-26T18:40:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyMainPageTitle()[pri:1, instance:com.bb.qa.testcases.MainTest@e45f292]" name="verifyMainPageTitle" duration-ms="161" started-at="2018-09-26T18:40:00Z" finished-at="2018-09-26T18:40:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMainPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bb.qa.testcases.MainTest@e45f292]" name="tearDown" is-config="true" duration-ms="1339" started-at="2018-09-26T18:40:00Z" finished-at="2018-09-26T18:40:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bb.qa.testcases.MainTest@e45f292]" name="setUp" is-config="true" duration-ms="16722" started-at="2018-09-26T18:44:00Z" finished-at="2018-09-26T18:44:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="goLoginPage()[pri:2, instance:com.bb.qa.testcases.MainTest@e45f292]" name="goLoginPage" duration-ms="12668" started-at="2018-09-26T18:44:16Z" finished-at="2018-09-26T18:44:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goLoginPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bb.qa.testcases.MainTest@e45f292]" name="tearDown" is-config="true" duration-ms="952" started-at="2018-09-26T18:44:29Z" finished-at="2018-09-26T18:44:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bb.qa.testcases.MainTest@e45f292]" name="setUp" is-config="true" duration-ms="18656" started-at="2018-09-26T18:47:52Z" finished-at="2018-09-26T18:48:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="goToCreateAccountPage()[pri:3, instance:com.bb.qa.testcases.MainTest@e45f292]" name="goToCreateAccountPage" duration-ms="14228" started-at="2018-09-26T18:48:11Z" finished-at="2018-09-26T18:48:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToCreateAccountPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bb.qa.testcases.MainTest@e45f292]" name="tearDown" is-config="true" duration-ms="1966" started-at="2018-09-26T18:48:25Z" finished-at="2018-09-26T18:48:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bb.qa.testcases.MainTest -->
+    </test> <!-- BEST BUY Test Cases -->
+  </suite> <!-- BEST BUY Application Test Automation -->
+</testng-results>

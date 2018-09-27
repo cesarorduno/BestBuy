@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="BEST BUY Application Test Automation">
+	
+	<listeners>
+				<listener
+					class-name="com.bb.qa.ExtentReportListener.ExtentReportListener"/>	
+	</listeners>
+	
+	<test name="BEST BUY Test Cases">
+		<classes>
+				<class name ="com.bb.qa.testcases.MainTest"></class>
+				<class name ="com.bb.qa.testcases.LoginTest"></class>
+				<class name ="com.bb.qa.testcases.CreateAccountTest"></class>
+				<class name ="com.bb.qa.testcases.HomeTest"></class>
+				<class name ="com.bb.qa.testcases.SearchTest"></class>
+		</classes>
+	</test>
+</suite>	
